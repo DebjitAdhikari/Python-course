@@ -1,0 +1,1 @@
+resources["milk"]=resources["milk"]-source["milk"]
